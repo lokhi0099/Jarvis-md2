@@ -2,7 +2,7 @@
 jarvis md is Multi Device whatsapp bot based on X-Asena
 ***
 
-### SETUP JARVIS
+### SETUP JARVIS 
 
 1. Scan the QR code
     <br>
